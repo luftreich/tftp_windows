@@ -191,6 +191,7 @@ int get_file(int sockfd, struct sockaddr *server_addr, const char *filename)
 	printf("´«ÊäÍê³É£¡\n");
 	fclose(fp);
 
+    // TEST
 	return 0;
 }
 
